@@ -67,7 +67,7 @@ E:\lxy\github\2020_lxy>git remote add origin https://github.com/lipaisan/2020_lx
 
 E:\lxy\github\2020_lxy>git push -u origin master
 Fatal: AggregateException encountered.
-Fatal: AggregateException encountered.
+Fatal: AggregateException encountered.   
 Username for 'https://github.com': huangzisidian@163.com
 Password for 'https://huangzisidian@163.com@github.com':
 Counting objects: 3, done.
@@ -78,13 +78,6 @@ To https://github.com/lipaisan/2020_lxy.git
 Branch master set up to track remote branch master from origin.
 
 E:\lxy\github\2020_lxy>git push -u origin master
-
-
-
-
-
-
-
 
 
 
